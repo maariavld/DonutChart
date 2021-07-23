@@ -1,0 +1,23 @@
+body .apexcharts-legend-marker {
+    position: absolute;
+    left: 0px !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+}
+
+body .apexcharts-legend-marker:before {
+    content: "";
+    width: 4px;
+    height: 4px;
+    background-color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 4px;
+}
+
+body .apexcharts-legend-series {
+    position: relative;
+    padding-left: 25px;
+}
