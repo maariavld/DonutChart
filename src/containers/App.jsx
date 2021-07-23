@@ -12,7 +12,6 @@ class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      profiles:[],
       options: {
                 labels: profiles[0].data.map((x)=>{return x.label}),
                 colors:['#692870', '#C0406B', '#F08F62'],
@@ -74,16 +73,12 @@ class App extends React.Component {
   }
 
   render() {
-    const { profiles } = this.state;
-    console.log(this.state.profiles.profiles);
-    return !profiles.length ?
-      <h2 className='tc'>Loading Charts...</h2> :
-      (
+    return (
       <div className="App">
         <h2 className='tc'>Donut Chart Cards</h2>
         <Paper elevation={10} className="pie">
           <div className='ma3 flex justify-between'>
-            <h2>{profiles.profiles[0].title}</h2>
+            <h2>{profiles[0].title}</h2>
             <CloneBtn />
           </div>
           <div style={{ height: "auto", width: "auto"}}>
