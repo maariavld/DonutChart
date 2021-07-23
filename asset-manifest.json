@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/git@github.com:maariavld/DonutChart.git/static/css/main.72436653.chunk.css",
+    "main.js": "/git@github.com:maariavld/DonutChart.git/static/js/main.16f91c33.chunk.js",
+    "main.js.map": "/git@github.com:maariavld/DonutChart.git/static/js/main.16f91c33.chunk.js.map",
+    "runtime-main.js": "/git@github.com:maariavld/DonutChart.git/static/js/runtime-main.8e6cc57d.js",
+    "runtime-main.js.map": "/git@github.com:maariavld/DonutChart.git/static/js/runtime-main.8e6cc57d.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/git@github.com:maariavld/DonutChart.git/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.e3926bb0.chunk.js": "/git@github.com:maariavld/DonutChart.git/static/js/2.e3926bb0.chunk.js",
+    "static/js/2.e3926bb0.chunk.js.map": "/git@github.com:maariavld/DonutChart.git/static/js/2.e3926bb0.chunk.js.map",
+    "static/js/3.56b91eeb.chunk.js": "/git@github.com:maariavld/DonutChart.git/static/js/3.56b91eeb.chunk.js",
+    "static/js/3.56b91eeb.chunk.js.map": "/git@github.com:maariavld/DonutChart.git/static/js/3.56b91eeb.chunk.js.map",
+    "index.html": "/git@github.com:maariavld/DonutChart.git/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/git@github.com:maariavld/DonutChart.git/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.72436653.chunk.css.map": "/git@github.com:maariavld/DonutChart.git/static/css/main.72436653.chunk.css.map",
+    "static/js/2.e3926bb0.chunk.js.LICENSE.txt": "/git@github.com:maariavld/DonutChart.git/static/js/2.e3926bb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e6cc57d.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.e3926bb0.chunk.js",
+    "static/css/main.72436653.chunk.css",
+    "static/js/main.16f91c33.chunk.js"
+  ]
+}
