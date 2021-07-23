@@ -1,6 +1,6 @@
 {
     "name": "app",
-    // "homepage": "git@github.com:maariavld/DonutChart.git",
+    "homepage": "git@github.com:maariavld/DonutChart.git",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
